@@ -1,0 +1,1 @@
+The objective of this project was to analyze cryptocurrency market data and social sentiment to understand how investor sentiment relates to trading activity, market volatility, and prediction confidence. I used Python to perform exploratory data analysis and create visualizations that reveal patterns in the data.
